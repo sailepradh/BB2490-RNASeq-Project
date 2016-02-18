@@ -3,15 +3,15 @@ Day 1: Testing feet in Github
 Log :1 "Learning GITHUB 101"
 Log :2 "Testing again"
 
-Day 2:
-Project Title and intial feel of the project.
+##Day 2:##
 
+#Project Title and intial feel of the project#
 
 First Observation: Title : The effect of sub-sampling of large RNA-seq data sets on gene expression analysis
 
 Keywords: Subsampling, large RNAseq, gene expression analysis
 
-Introduction:
+#Introduction:#
 
 Diagnosis the problem:
 Normal blood cells from individuals were collected and a part treated with LPS while other untreated
@@ -45,7 +45,7 @@ Tools in consideration FASTQC
 
 ## Sanity check ##
 
-Alignment and Mapping:
+#Alignment and Mapping#
 
 Various mappers BWA, bowtie2, STAR, Tophat, But given the RNASeq data we have to consider take into consideration of spliced reads and computation time for the mapping the reads
 
